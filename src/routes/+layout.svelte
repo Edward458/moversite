@@ -1,7 +1,7 @@
 <script>
 	import '../app.css';
+    import Navbar from '../Components/Navbar/Navbar.svelte';
 </script>
 
-<h1>Test</h1>
-
+<Navbar/>
 <slot></slot>
